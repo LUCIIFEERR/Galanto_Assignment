@@ -23,14 +23,14 @@ This game is designed to assist in wrist rehabilitation for a 35-year-old patien
 ## How to Play
 
 1. Use the **Up/Down** arrow keys to control the knife’s vertical movement.
-2. Use the **Side** arrow keys to move sliced pieces aside.
+2. Use the **left** arrow keys to move sliced pieces aside.
 3. Aim to slice the vegetables cleanly and watch them fall naturally thanks to the physics system.
 
 ## Installation
 
 1. Download the game APK or executable file from the provided link.
 2. Install the game on your Android device or run it on your PC.
-3. Start the game and follow the on-screen instructions.
+3. Start the game and rotate your phone for better experience.
 
 ## Challenges Faced
 
