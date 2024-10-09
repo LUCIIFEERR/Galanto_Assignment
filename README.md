@@ -46,8 +46,11 @@ This game is designed to assist in wrist rehabilitation for a 35-year-old patien
 
 ## Demo
 
-https://drive.google.com/file/d/1oFe8fQWWXenyPuMcuI3_jL0ceoTpVEv0/view?usp=drive_link
+[Demo](https://drive.google.com/file/d/1oFe8fQWWXenyPuMcuI3_jL0ceoTpVEv0/view?usp=drive_link
+)
+## Game Environment
 
+[Game Environment](https://drive.google.com/file/d/1YF84_UyXdbgVoPuIV-mSZDgNQzsYEM8h/view?usp=sharing)
 ## Contact
 
 For more information or questions, contact [Eshaan Akware] at [eshaanakware@gmail.com].
